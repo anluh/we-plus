@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7092a43-6b10-42d7-9dbe-78ea9863371d" name="We Plus" url="http://138.201.139.163">
+        <fileTransfer host="138.201.139.163" port="21" rootFolder="/www/weplus.org.ua/wp-content/themes/We_Plus">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
